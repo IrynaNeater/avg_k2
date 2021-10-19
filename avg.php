@@ -1,6 +1,6 @@
 <?php
 
-//pamientaj o zapisaniu pliku ctrl+5
+//pamientaj o zapisaniu pliku ctrl+s
 	function s(int a, int b)
 	{
 		return(a+b)/2;
